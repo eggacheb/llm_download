@@ -9,5 +9,5 @@
 ## 项目运行
 
 - 先去修改 `base/__init_.py` 里面的配置文件，配置openai的key和网址信息
-- 然后执行`pip install -r requrements.txt`
+- 然后执行`pip install -r requirements.txt`
 - 最后运行即可
